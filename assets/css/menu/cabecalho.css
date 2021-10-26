@@ -1,0 +1,11 @@
+.cabecalho{
+    display: flex;
+
+    align-items: center;
+    justify-content: space-between;
+
+    background-color: #F9F9F9;
+
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
