@@ -1,6 +1,6 @@
 # O que foi aprendido
 
-## Aula 1 - EStilização cabeçalho
+## Aula 1 - Estilização cabeçalho
 
 * Utilizar seletores CSS mais simples (como o uso de classes);
 
