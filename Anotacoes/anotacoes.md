@@ -21,3 +21,9 @@
     * A Metodologia BEM sugere que a sintaxe para se nomear as classes seja formada de modo que o nome do bloco venha primeiro, logo depois o nome do elemento e que eles sejam separados por dois underscores ( __ ) ;
 
     * Quando for preciso alterar o estilo de um elemento específico a Metodologia BEM preconiza que se for preciso criar um modificador, o mesmo deve escrito com sintaxe usando dois hífens ( -- ) após o nome do elemento ou bloco a ser modificado.
+
+## Aula 4 - Estilização de quem somos
+
+* Imagens ilustrativas devem estar referenciadas em nossos arquivos .css;
+
+* Boas práticas com importação de imagens.
